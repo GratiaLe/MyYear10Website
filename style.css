@@ -38,7 +38,7 @@ img {
 .topic-title{
     color: rgb(82, 148, 209);
     font-size: 30px;
-    font-family: url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap');
+    font-family: url(url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Notable&display=swap'););
     padding: 0.1em 3em;
     background-color: rgb(238, 218, 191);
 }
