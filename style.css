@@ -43,6 +43,10 @@ img {
     background-color: rgb(238, 218, 191);
 }
 
+h1{
+    font-family: 'chango', static ;
+}
+
 /* Three column grid with a nice big gap */
 .topic-content{
     display: grid;
