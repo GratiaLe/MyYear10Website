@@ -45,6 +45,7 @@ img {
 
 h1{
     font-family: 'gravitas one', static ;
+    font-weight: bold;
 }
 
 /* Three column grid with a nice big gap */
